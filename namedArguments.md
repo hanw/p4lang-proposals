@@ -1,12 +1,12 @@
-Summary:
+#Summary:
 This RFC adds named arguments to P4.
 
-Motivation:
+#Motivation:
 
-Detailed Design:
+#Detailed Design:
 
-Drawbacks:
+#Drawbacks:
 
-Alternatives:
+#Alternatives:
 
-Unresolved Questions:
+#Unresolved Questions:
